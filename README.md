@@ -47,3 +47,11 @@ git commit -m 'mensagem'						= commita com mensagem
 git diff 'arquivo'							= mostra diferencas
 
 git show 'arquivo'							= exibe o arquivo
+
+git clone 'url'							= clona o projeto pelo ultimo commit
+
+git branch								= lista as branchs
+
+git checkout -b 'nome_do_branch''		= cria branch
+
+git stash 								= para o branch atual
